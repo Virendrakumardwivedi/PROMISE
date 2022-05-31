@@ -1,0 +1,36 @@
+#food{
+    text-align: left;
+      line-height: 40px;
+     height:700px;
+     color: cyan;
+     background-color: rgb(45, 44, 44);
+     font-weight: 800;
+     padding-left: 3%;
+         }
+         
+
+#screen{
+text-align:justify;
+color:rgb(255, 20, 20)  
+}
+button{
+ cursor: pointer;
+ height:30px;
+ width:150px
+}
+button{
+ background-color: blue;
+ color: aliceblue;
+font-weight: 500;
+}
+h1{
+ color: yellowgreen;
+}
+#container{
+    background-color: rgb(45, 44, 44);
+     margin-left: 5%;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
